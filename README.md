@@ -1,4 +1,4 @@
 # Responsive-Web-Design
-<h3>Understanding Media Queries</h3>
+<h3><u>Understanding Media Queries</u></h3>
 
 ## What is Media Query?
